@@ -30,4 +30,13 @@
 **Thoughts:**  Refreshed my Js concepts. 
 
 
+### Day 4: augst 21, 2019 Wednesday
+
+##### (delete me or comment me out)
+
+**Today's Progress**:Worked on Javascript further and sass  .
+
+**Thoughts:**  very excited about implementation of sass concepts. 
+
+
 
