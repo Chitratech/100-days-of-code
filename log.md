@@ -1,42 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 1: augst 12, 2019 Tuesday
+### Day 1: November 03, 2020 Tuesday
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: brushed up array concepts of javascripts and worked on freecode camp applied design questions , even solved in sololearn javascript questions.
 
-**Thoughts:** learnt new concepts in js and css , overall, I feel like I am slowly getting better at it. 
+**Thoughts:** everyday progress will make be a best coder , i learnt some new concepts today . 
 
-**Link to work:** [to-do-list App](https://codepen.io/chitratech/pen/zYOrdGE)
+**Link to work:** [free code camp](https://www.freecodecamp.org/chitratech)
 
-# 100 Days Of Code - Log
-
-### Day 2: augst 16, 2019 Friday
-
-##### (delete me or comment me out)
-
-**Today's Progress**: Worked on Html & Css  technical question on freecodecamp.
-
-**Thoughts:**  Refreshed my html & Css concepts. 
-
-
-
-### Day 3: augst 19, 2019 Monday
-
-##### (delete me or comment me out)
-
-**Today's Progress**:Worked on Javascript  technical question on freecodecamp.
-
-**Thoughts:**  Refreshed my Js concepts. 
-
-
-### Day 4: augst 21, 2019 Wednesday
-
-##### (delete me or comment me out)
-
-**Today's Progress**:Worked on Javascript further and sass  .
-
-**Thoughts:**  very excited about implementation of sass concepts. 
 
 
 
